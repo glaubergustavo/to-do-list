@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  TasksListHomeViewController.swift
 //  AppTodoList
 //
 //  Created by Glauber Gustavo on 18/12/22.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class TasksListHomeViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

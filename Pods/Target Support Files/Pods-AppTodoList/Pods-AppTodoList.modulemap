@@ -1,0 +1,6 @@
+framework module Pods_AppTodoList {
+  umbrella header "Pods-AppTodoList-umbrella.h"
+
+  export *
+  module * { export * }
+}
